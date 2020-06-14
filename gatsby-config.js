@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Guran.com`,
+    author: `Göran Paues`,
+    description: `My developer blog!`,
+    siteUrl: `https://www.guran.com/`,
     social: {
       twitter: `gatsbyjs`,
     },
@@ -65,7 +65,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-42859267-1`,
       },
     },
     {

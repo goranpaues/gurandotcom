@@ -10,7 +10,7 @@
 
 <img alt="screesnhot" src="./screenshot.png">
 
-This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
+This is my personal development blog, welcome! I created this blog by following the instructions here: https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/
 
 ## 🚀 Quick start
 

@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-personal-starter-blog",
+  "name": "gurandotcom",
   "private": true,
-  "description": "A personal blog starter for a blog powered by Netlify CMS, based on the default blog starter",
+  "description": "My personal development blog",
   "version": "1.0.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
+  "author": "Göran Paues <goran.paues@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/GoranPaues/gurandotcom/issues"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
