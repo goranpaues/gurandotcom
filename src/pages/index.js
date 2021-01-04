@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Guran.com"
+    const siteTitle = "Göran Paues - Database Developer"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -16,9 +16,6 @@ class IndexPage extends React.Component {
           keywords={[`blog`, `database`, `oracle`, `sql`, `postgresql`, `postgres`, `tips`]}
         />
         <img style={{ margin: 0 }} src="./GoranPaues.jpg" alt="Gatsby Scene" />
-        <h1>
-          Göran Paues - Database Developer
-        </h1>
         <p>
           Hi, welcome to my page! More information coming shortly.{" "}
           <span role="img" aria-label="wave emoji">
